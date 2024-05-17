@@ -11,7 +11,5 @@ First, clone the repository and install the dependencies:
 
 ```bash
 
-cd myshop
 npm install
 npm run web
-
