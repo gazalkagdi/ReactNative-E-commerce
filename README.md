@@ -14,3 +14,4 @@ First, clone the repository and install the dependencies:
 cd myshop
 npm install
 npm run web
+
